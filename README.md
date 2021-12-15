@@ -32,9 +32,6 @@ we human beings think of our needs first, then our expenses, in this way we some
 than we wanted. And also due to our procrastinative nature we avoid doing the math. So yeah this program solves this issue by 
 taking a reverse approach. 
 
-Finally the program has a very high potential, meaning that it can be improved in many ways. For example; a Supervised Machine
-Learning model can be implemented here to track the historical data of the user and analyze it to find a suitable quantity for
-a specific item in a given amount.
-
+Finally the program has a very high potential, meaning it might not be much useful in its present state because of the absense of GUI, but it can be improved in many ways. For example; a Supervised Machine Learning model can be implemented here to track the historical data of the user and analyze it to find a suitable quantity for a specific item in a given amount.
 
 --- End ---
