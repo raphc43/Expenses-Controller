@@ -1,4 +1,4 @@
---- This simple yet powerful(potentially) program was constructed for the purpose of controlling daily expenses ---
+--- This program was constructed for the purpose of controlling daily expenses ---
 
 -> On the left-handside, 'q' is our unknown variable which stands for quantatity, and the coefficients here are the unitary prices, 
    whereas the right handside of the inequality is our total limit that we do not want to exceed.
